@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "cnshenj.vscode-task-manager",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "ms-python.python",
+        "redhat.ansible",
+        "redhat.vscode-openshift-connector",
+        "redhat.vscode-redhat-account",
+        "redhat.vscode-yaml",
+        "github.vscode-pull-request-github",
+        "mhutchie.git-graph"
+    ]
+}
